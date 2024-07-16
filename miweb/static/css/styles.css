@@ -7,7 +7,11 @@
 body {
     font-family: "Raleway", sans-serif;
     opacity: 0.70;
-    background: url("/static/flanes/fondo.jpg") 50% 0 no-repeat fixed;
+    background: url("/static/flanes/fondo1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 .nav-link:hover {

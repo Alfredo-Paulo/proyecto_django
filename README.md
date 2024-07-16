@@ -8,5 +8,5 @@ Creación de sitio web llamado OnlyFlans, su función es vender y promocionar po
 
 ## Screenshots
 
-![App Screenshot](https://github.com/cfurrutia/proyecto_django/blob/main/miweb/static/flanes/miweb.gif?raw=true)
+
 
